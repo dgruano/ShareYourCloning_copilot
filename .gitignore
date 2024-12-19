@@ -1,0 +1,4 @@
+# Environment
+.venv/
+.python-version
+creds.json
